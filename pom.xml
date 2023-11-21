@@ -3,5 +3,7 @@
   <groupId>Docker_jenkins</groupId>
   <artifactId>Docker_jenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Docker_jenkins</name>
+  <build>
+	  <finalName>docker_jenkins</finalName>
+  </build>
 </project>
